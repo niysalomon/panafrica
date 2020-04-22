@@ -1,0 +1,55 @@
+body{
+			background-color: ;
+
+		}
+		.container{
+			margin-left: 30%;
+			margin-right: 30%;
+			padding-top:2%;
+		}
+		.mydata{
+			background-color:grey ;
+			margin-left: 10%;	
+			 text-align:left;
+			  color:#black;
+			  background:#E8CA8A;
+			  border-bottom:5px solid #ccc;		
+			  border-left:5px solid #ccc;		
+			  border-right:5px solid #ccc;		
+			  border-top:5px solid #ccc;	
+			  font-size: 20px;
+  font-weight: bold;
+
+		}
+		input[type=number], select {
+  
+  font-size: 12px;
+  font-weight: bold;
+  padding: 6px 60px;
+  text-decoration: none;
+
+		}
+		input[type=submit],.button {
+
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  float: right;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+border-bottom:5px solid #FF00FF;		
+			  border-left:5px solid #FF00FF;		
+			  border-right:5px solid #FF00FF;		
+			  border-top:5px solid #FF00FF;
+			}
+		label{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin: .5rem;
+}
+	
